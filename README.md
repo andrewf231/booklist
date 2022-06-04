@@ -1,1 +1,5 @@
 # booklist
+
+## Authors
+
+* Simeon Franklin
