@@ -2,4 +2,5 @@
 
 ## Authors
 
-* Simeon Franklin - Andrew Franklin
+* Simeon Franklin 
+* Andrew Franklin
