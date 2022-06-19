@@ -15,8 +15,7 @@
   <dt>Author</dt>
   <dd>Laura Ingalls Wilder</dd>
   <dt>Illustrator</dt>
-  <dd>Garth
-    <dt>Williams</dd>
+  <dd>Garth Williams
   <dt>Year</dt>
   <dd>1943</dd>
   <dt>Ages</dt> 
