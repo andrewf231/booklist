@@ -14,6 +14,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Laura Ingalls Wilder</dd>
+  <dt>Illustrator</dt>
+  <dd>Garth Montgomery Williams</dd>
   <dt>Year</dt>
   <dd>1943</dd>
   <dt>Ages</dt> 
@@ -28,6 +30,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Lloyd Chudley Alexander</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
   <dt>Year</dt>
   <dd>1964<dd>
   <dt>Ages</dt>
@@ -42,6 +46,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Lloyd Chudley Alexander</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
   <dt>Year</dt>
   <dd>1965</dd>
   <dt>Ages</dt>
@@ -56,6 +62,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Lloyd Chudley Alexander</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
   <dt>Year</dt>
   <dd>1966</dd>
   <dt>Ages</dt>
@@ -70,6 +78,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Lloyd Chudley Alexander</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
   <dt>Year</dt>
   <dd>1967</dd>
   <dt>Ages</dt>
@@ -84,6 +94,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Lloyd Chudley Alexander</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
   <dt>Year</dt>
   <dd>1968</dd>
   <dt>Ages</dt>
@@ -98,6 +110,8 @@
 <dl>
   <dt>Author</dt>
   <dd>Jean Lee Jordan</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
   <dt>Year</dt>
   <dd>1965</dd>
   <dt>Ages</dt>
@@ -106,4 +120,36 @@
   <dd>Newbery Metal</dd>
   <dt>Amazon Link</dd>
   <dd>https://www.amazon.com/s?k=carry+on+mr+bowditch&crid=1K2ZRK20K9B8U&sprefix=Carry+on%2Caps%2C250&ref=nb_sb_ss_ts-doa-p_1_8</dd>
+</dl>
+
+### The Best Christms Pageant Ever
+<dl>
+  <dt>Author</dt>
+  <dd>Barbara Jean Robinson</dt>
+  <dt>Illustrator</dt>
+  <dd>Judith Gwyn Brown</dd>
+  <dt>Year</dt>
+  <dd>1971</dd>
+  <dt>Ages</dt>
+  <dd>8+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/s?k=the+best+christmas+pageant+ever&crid=2AZL9J9NE5XH1&sprefix=%2Caps%2C257&ref=nb_sb_ss_recent_1_0_recent</dd>
+</dl>
+
+### The Way of the Warrior Kid
+<dl>
+  <dt>Author</dt>
+  <dd>Jocko Gretton Willink </dd>
+  <dt>Illustrator</dt>
+  <dd>Jon bozak</dd>
+  <dt>Year</dt>
+  <dd>2017</dd>
+  <dt>Ages</dt>
+  <dt>9+</dt>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/s?k=the+way+of+the+warrior+kid&crid=CKMZSZ1S8XVR&sprefix=The+way+f+the+warr%2Caps%2C274&ref=nb_sb_ss_ts-doa-p_2_18</dd>
 </dl>
