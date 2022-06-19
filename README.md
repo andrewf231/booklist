@@ -89,7 +89,21 @@
   <dt>Ages</dt>
   <dd>12+</dd>
   <dt>Awards</dt>
-  <dd>Newbery Award</dd>
+  <dd>Newbery Metal</dd>
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/s?k=The+High+King&crid=26H0M7T26HOX1&sprefix=the+high+kin%2Caps%2C271&ref=nb_sb_noss_2</dd>
+</dl>
+
+### Carry On, Mr. Bowditch
+<dl>
+  <dt>Author</dt>
+  <dd>Jean Lee Jordan</dd>
+  <dt>Year</dt>
+  <dd>1965</dd>
+  <dt>Ages</dt>
+  <dd>14+</dd>
+  <dt>Awards</dt>
+  <dd>Newbery Metal</dd>
+  <dt>Amazon Link</dd>
+  <dd>https://www.amazon.com/s?k=carry+on+mr+bowditch&crid=1K2ZRK20K9B8U&sprefix=Carry+on%2Caps%2C250&ref=nb_sb_ss_ts-doa-p_1_8</dd>
 </dl>
