@@ -65,6 +65,7 @@
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/s?k=The+castle+Of+llyr&crid=252BRF4LSEXE1&sprefix=the+castle+of+lly%2Caps%2C231&ref=nb_sb_noss_2</dd>
 </dl>
+
 ### Taran Wanderer
 <dl>
   <dt>Author</dt>
@@ -77,4 +78,18 @@
   <dd>Newbery Award</dd>
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/s?k=Taran+Wanderer&crid=3E0Y0VPPF9PF5&sprefix=taran+wanderer%2Caps%2C235&ref=nb_sb_noss_1</dd>
+</dl>
+
+### The High King
+<dl>
+  <dt>Author</dt>
+  <dd>Lloyd Chudley Alexander</dd>
+  <dt>Year</dt>
+  <dd>1968</dd>
+  <dt>Ages</dt>
+  <dd>12+</dd>
+  <dt>Awards</dt>
+  <dd>Newbery Award</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/s?k=The+High+King&crid=26H0M7T26HOX1&sprefix=the+high+kin%2Caps%2C271&ref=nb_sb_noss_2</dd>
 </dl>
