@@ -15,7 +15,8 @@
   <dt>Author</dt>
   <dd>Laura Ingalls Wilder</dd>
   <dt>Illustrator</dt>
-  <dd>Garth Montgomery Williams</dd>
+  <dd>Garth
+    <dt>Williams</dd>
   <dt>Year</dt>
   <dd>1943</dd>
   <dt>Ages</dt> 
@@ -127,7 +128,7 @@
   <dt>Author</dt>
   <dd>Barbara Jean Robinson</dt>
   <dt>Illustrator</dt>
-  <dd>Judith Gwyn Brown</dd>
+  <dd>Judith Brown</dd>
   <dt>Year</dt>
   <dd>1971</dd>
   <dt>Ages</dt>
@@ -147,9 +148,25 @@
   <dt>Year</dt>
   <dd>2017</dd>
   <dt>Ages</dt>
-  <dt>9+</dt>
+  <dd>9+</dd>
   <dt>Awards</dt>
   <dd>None</dd>
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/s?k=the+way+of+the+warrior+kid&crid=CKMZSZ1S8XVR&sprefix=The+way+f+the+warr%2Caps%2C274&ref=nb_sb_ss_ts-doa-p_2_18</dd>
+</dl>
+ 
+### All Things Bright and Beautiful
+<dl>
+  <dt>Author</dt>
+  <dd>James Alfred Herriot</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1974</dd>
+  <dt>Ages</dt>
+  <dd>11+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/All-Things-Bright-and-Beautiful-audiobook/dp/B00005AAO1/ref=sr_1_1?crid=7FDWWKIDMP9A&keywords=All+things+bright+and+beautiful&qid=1655653279&sprefix=all+things+bright+and+beautiful%2Caps%2C243&sr=8-1</dd>
 </dl>
