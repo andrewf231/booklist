@@ -169,3 +169,84 @@
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/All-Things-Bright-and-Beautiful-audiobook/dp/B00005AAO1/ref=sr_1_1?crid=7FDWWKIDMP9A&keywords=All+things+bright+and+beautiful&qid=1655653279&sprefix=all+things+bright+and+beautiful%2Caps%2C243&sr=8-1</dd>
 </dl>
+
+### The Fellowship of the Ring
+<dl>
+  <dt>Author</dt>
+  <dd>J. R. R. Tolkien</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1954</dd>
+  <dl>Ages</dl>
+  <dd>12+</dd>
+  <dl>Awards</dl>
+  <dd>None</dd>
+  <dt>Amazon link</dt>
+  <dd>https://www.amazon.com/Fellowship-Rings-J-R-R-Tolkien-1986-08-12/dp/B017YCDQ02/ref=sr_1_2?crid=FXW34Z47XS88&keywords=the+fellowship+of+the+ring+book&qid=1655789605&s=books&sprefix=the+fellowship+of+the+ring%2Cstripbooks%2C492&sr=1-2</dd>
+</dl>
+
+### Never Sniff A Gift Fish
+<dl>
+  <dt>Author</dt>
+  <dd>Patrick F. McManus</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1979</dd>
+  <dl>Ages</dl>
+  <dd>11+</dd>
+  <dl>Awards</dl>
+  <dd>None</dd>
+  <dt>Amazon link: Audiobook</dt>
+  <dd>https://www.amazon.com/Never-Sniff-Gift-Fish-audiobook/dp/B002QUL4X4/ref=sr_1_1?crid=3AYWIDX2OVXB9&keywords=never+sniff+a+gift+fish&qid=1655790888&s=books&sprefix=never+sniff%2Cstripbooks%2C245&sr=1-1</dd>
+</dl>
+
+### The White Company
+<dl>
+  <dt>Author</dt>
+  <dd>Arthur Conan Doyle</dd>
+  <dt>Illustrator</dt>
+  <dd>N. C. Wyeth</dd>
+  <dt>Year</dt>
+  <dd>1891</dd>
+  <dl>Ages</dl>
+  <dd>11+</dd>
+  <dl>Awards</dl>
+  <dd>None</dd>
+  <dt>Amazon link</dt>
+  <dd>https://www.amazon.com/White-Company-100th-Anniversary-Illustrated/dp/1952433312/ref=sr_1_1?crid=QQ061MLGZFDL&keywords=the+white+company&qid=1655791122&s=books&sprefix=the+white+company%2Cstripbooks%2C219&sr=1-1</dd>
+</dl>
+
+### Walk Across America
+<dl>
+  <dt>Author</dt>
+  <dd>Peter Jenkins</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1979</dd>
+  <dl>Ages</dl>
+  <dd>12+</dd>
+  <dl>Awards</dl>
+  <dd>None</dd>
+  <dt>Amazon link</dt>
+  <dd>https://www.amazon.com/Walk-Across-America-Peter-Jenkins/dp/006095955X/ref=sr_1_1?crid=1U2LMSK8WYD1O&keywords=walk+across+america&qid=1655791199&s=books&sprefix=walk+acro%2Cstripbooks%2C320&sr=1-1</dd>
+</dl>
+
+### The Martian
+<dl>
+  <dt>Author</dt>
+  <dd>Andy Weir</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>2011</dd>
+  <dl>Ages</dl>
+  <dd>14+</dd>
+  <dl>Awards</dl>
+  <dd>None</dd>
+  <dt>Amazon link</dt>
+  <dd>https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1655791555&sr=1-1</dd>
+</dl>
+
