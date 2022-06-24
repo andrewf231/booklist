@@ -185,6 +185,22 @@
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/All-Things-Bright-and-Beautiful-audiobook/dp/B00005AAO1</dd>
 </dl>
+
+### All Things Wise and Wonderful
+<dl>
+  <dt>Author</dt>
+  <dd>James A. Herriot</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1977</dd>
+  <dt>Ages</dt>
+  <dd>11+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Things-Wise-Wonderful-James-Herriot/dp/0312966555</dd>
+  </dl>
   
 ### The Fellowship of the Ring
 <dl>
