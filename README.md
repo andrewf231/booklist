@@ -39,7 +39,7 @@
   <dt>Awards</dt>
   <dd>Newbery Award</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/s?k=The+book+of+three&crid=2A1B8PPOFIZ20&sprefix=the+book+of+three%2Caps%2C295&ref=nb_sb_noss_1</dd>
+  <dd>https://www.amazon.com/s?k=The+book+of+three&crid=2A1B8PPOFIZ20</dd>
 </dl>
 
 ### The Black Cauldron
@@ -55,7 +55,7 @@
   <dt>Awards</dt>
   <dd>Newbery Award</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/The-Black-Cauldron-audiobook/dp/B0001ZZ04K/ref=sr_1_2?crid=1WMJADEYRL4I0&keywords=the+black+cauldron&qid=1655607894&sprefix=The+Black+Cau%2Caps%2C215&sr=8-2</dd>
+  <dd>https://www.amazon.com/The-Black-Cauldron-audiobook/dp/B0001ZZ04K</dd>
 </dl>
 
 ### The Castle of Llyr
@@ -71,7 +71,7 @@
   <dt>Awards</dt>
   <dd>Newbery Award</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/s?k=The+castle+Of+llyr&crid=252BRF4LSEXE1&sprefix=the+castle+of+lly%2Caps%2C231&ref=nb_sb_noss_2</dd>
+  <dd>https://www.amazon.com/s?k=The+castle+Of+llyr&crid=252BRF4LSEXE1</dd>
 </dl>
 
 ### Taran Wanderer
@@ -87,7 +87,7 @@
   <dt>Awards</dt>
   <dd>Newbery Award</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/s?k=Taran+Wanderer&crid=3E0Y0VPPF9PF5&sprefix=taran+wanderer%2Caps%2C235&ref=nb_sb_noss_1</dd>
+  <dd>https://www.amazon.com/s?k=Taran+Wanderer&crid=3E0Y0VPPF9PF5</dd>
 </dl>
 
 ### The High King
@@ -103,7 +103,7 @@
   <dt>Awards</dt>
   <dd>Newbery Metal</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/s?k=The+High+King&crid=26H0M7T26HOX1&sprefix=the+high+kin%2Caps%2C271&ref=nb_sb_noss_2</dd>
+  <dd>https://www.amazon.com/s?k=The+High+King&crid=26H0M7T26HOX1</dd>
 </dl>
 
 ### Carry On, Mr. Bowditch
@@ -119,7 +119,7 @@
   <dt>Awards</dt>
   <dd>Newbery Metal</dd>
   <dt>Amazon Link</dd>
-  <dd>https://www.amazon.com/s?k=carry+on+mr+bowditch&crid=1K2ZRK20K9B8U&sprefix=Carry+on%2Caps%2C250&ref=nb_sb_ss_ts-doa-p_1_8</dd>
+  <dd>https://www.amazon.com/s?k=carry+on+mr+bowditch&crid=1K2ZRK20K9B8U</dd>
 </dl>
 
 ### The Best Christms Pageant Ever
@@ -135,7 +135,7 @@
   <dt>Awards</dt>
   <dd>None</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/s?k=the+best+christmas+pageant+ever&crid=2AZL9J9NE5XH1&sprefix=%2Caps%2C257&ref=nb_sb_ss_recent_1_0_recent</dd>
+  <dd>https://www.amazon.com/s?k=the+best+christmas+pageant+ever&crid=2AZL9J9NE5XH1</dd>
 </dl>
 
 ### The Way of the Warrior Kid
@@ -151,7 +151,7 @@
   <dt>Awards</dt>
   <dd>None</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/s?k=the+way+of+the+warrior+kid&crid=CKMZSZ1S8XVR&sprefix=The+way+f+the+warr%2Caps%2C274&ref=nb_sb_ss_ts-doa-p_2_18</dd>
+  <dd>https://www.amazon.com/s?k=the+way+of+the+warrior+kid&crid=CKMZSZ1S8XVR</dd>
 </dl>
  
 ### All Creatures Great and Small
@@ -199,7 +199,7 @@
   <dl>Awards</dl>
   <dd>None</dd>
   <dt>Amazon link</dt>
-  <dd>https://www.amazon.com/Fellowship-Rings-J-R-R-Tolkien-1986-08-12/dp/B017YCDQ02/ref=sr_1_2?crid=FXW34Z47XS88&keywords=the+fellowship+of+the+ring+book&qid=1655789605&s=books&sprefix=the+fellowship+of+the+ring%2Cstripbooks%2C492&sr=1-2</dd>
+  <dd>https://www.amazon.com/Fellowship-Rings-J-R-R-Tolkien-1986-08-12/dp/B017YCDQ02</dd>
 </dl>
 
 ### Never Sniff A Gift Fish
@@ -215,7 +215,7 @@
   <dl>Awards</dl>
   <dd>None</dd>
   <dt>Amazon link: Audiobook</dt>
-  <dd>https://www.amazon.com/Never-Sniff-Gift-Fish-audiobook/dp/B002QUL4X4/ref=sr_1_1?crid=3AYWIDX2OVXB9&keywords=never+sniff+a+gift+fish&qid=1655790888&s=books&sprefix=never+sniff%2Cstripbooks%2C245&sr=1-1</dd>
+  <dd>https://www.amazon.com/Never-Sniff-Gift-Fish-audiobook/dp/B002QUL4X4</dd>
 </dl>
 
 ### The White Company
