@@ -29,7 +29,7 @@
 ### The Book of Three
 <dl>
   <dt>Author</dt>
-  <dd>Lloyd Chudley Alexander</dd>
+  <dd>Lloyd C. Alexander</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -45,7 +45,7 @@
 ### The Black Cauldron
 <dl>
   <dt>Author</dt>
-  <dd>Lloyd Chudley Alexander</dd>
+  <dd>Lloyd C. Alexander</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -61,7 +61,7 @@
 ### The Castle of Llyr
 <dl>
   <dt>Author</dt>
-  <dd>Lloyd Chudley Alexander</dd>
+  <dd>Lloyd C. Alexander</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -77,7 +77,7 @@
 ### Taran Wanderer
 <dl>
   <dt>Author</dt>
-  <dd>Lloyd Chudley Alexander</dd>
+  <dd>Lloyd C. Alexander</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -93,7 +93,7 @@
 ### The High King
 <dl>
   <dt>Author</dt>
-  <dd>Lloyd Chudley Alexander</dd>
+  <dd>Lloyd C. Alexander</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -109,7 +109,7 @@
 ### Carry On, Mr. Bowditch
 <dl>
   <dt>Author</dt>
-  <dd>Jean Lee Jordan</dd>
+  <dd>Jean L. Jordan</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -125,7 +125,7 @@
 ### The Best Christms Pageant Ever
 <dl>
   <dt>Author</dt>
-  <dd>Barbara Jean Robinson</dt>
+  <dd>Barbara J. Robinson</dt>
   <dt>Illustrator</dt>
   <dd>Judith Brown</dd>
   <dt>Year</dt>
@@ -141,7 +141,7 @@
 ### The Way of the Warrior Kid
 <dl>
   <dt>Author</dt>
-  <dd>Jocko Gretton Willink </dd>
+  <dd>Jocko G. Willink </dd>
   <dt>Illustrator</dt>
   <dd>Jon bozak</dd>
   <dt>Year</dt>
@@ -154,10 +154,26 @@
   <dd>https://www.amazon.com/s?k=the+way+of+the+warrior+kid&crid=CKMZSZ1S8XVR&sprefix=The+way+f+the+warr%2Caps%2C274&ref=nb_sb_ss_ts-doa-p_2_18</dd>
 </dl>
  
+### All Creatures Great and Small
+<dl>
+  <dt>Author</dt>
+  <dd>James A. Herriot</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1973</dd>
+  <dt>Ages</dt>
+  <dd>11+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Creatures-Great-Small-James-Herriot/dp/0312965788</dd>
+</dl>
+
 ### All Things Bright and Beautiful
 <dl>
   <dt>Author</dt>
-  <dd>James Alfred Herriot</dd>
+  <dd>James A. Herriot</dd>
   <dt>Illustrator</dt>
   <dd>None</dd>
   <dt>Year</dt>
@@ -167,9 +183,9 @@
   <dt>Awards</dt>
   <dd>None</dd>
   <dt>Amazon Link</dt>
-  <dd>https://www.amazon.com/All-Things-Bright-and-Beautiful-audiobook/dp/B00005AAO1/ref=sr_1_1?crid=7FDWWKIDMP9A&keywords=All+things+bright+and+beautiful&qid=1655653279&sprefix=all+things+bright+and+beautiful%2Caps%2C243&sr=8-1</dd>
+  <dd>https://www.amazon.com/All-Things-Bright-and-Beautiful-audiobook/dp/B00005AAO1</dd>
 </dl>
-
+  
 ### The Fellowship of the Ring
 <dl>
   <dt>Author</dt>
@@ -253,8 +269,8 @@
 ### The Lion, The Witch, and the Wardrobe
 
 <dl> 
-  <dt> Author</dt>
-  <dd> C.S. Lewis</dd>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
   <dt>Illustrator</dt>
   <dd>Pauline Baynes</dd>
   <dt>Year</dt>
