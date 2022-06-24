@@ -252,17 +252,17 @@
 
 ### The Lion, The Witch, and the Wardrobe
 
-<dl> Author
-  <dt></dt>
+<dl> 
+  <dt> Author</dt>
   <dd> C.S. Lewis</dd>
   <dt>Illustrator</dt>
   <dd>Pauline Baynes</dd>
   <dt>Year</dt>
   <dd>1959</dd>
-  <dl>Ages</dl>
+  <dt>Ages</dt>
   <dd>6+</dd>
-  <dl>Awards</dl>
-  <dd></dd>
+  <dt>Awards</dt>
+  <dd>none</dd>
   <dt>Amazon link</dt>
   <dd>https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0064471047/ref=sr_1_1?crid=3R733WHWVO5I2&keywords=the+lion+the+witch+and+the+wardrobe&qid=1656044010&s=books&sprefix=The+lion+the+witch%2Cstripbooks%2C306&sr=1-1
 </dl>
