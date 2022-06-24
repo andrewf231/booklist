@@ -231,7 +231,7 @@
   <dl>Awards</dl>
   <dd>None</dd>
   <dt>Amazon link</dt>
-  <dd>https://www.amazon.com/White-Company-100th-Anniversary-Illustrated/dp/1952433312/ref=sr_1_1?crid=QQ061MLGZFDL&keywords=the+white+company&qid=1655791122&s=books&sprefix=the+white+company%2Cstripbooks%2C219&sr=1-1</dd>
+  <dd>https://www.amazon.com/White-Company-100th-Anniversary-Illustrated/dp/1952433312</dd>
 </dl>
 
 ### Walk Across America
@@ -247,7 +247,7 @@
   <dl>Awards</dl>
   <dd>None</dd>
   <dt>Amazon link</dt>
-  <dd>https://www.amazon.com/Walk-Across-America-Peter-Jenkins/dp/006095955X/ref=sr_1_1?crid=1U2LMSK8WYD1O&keywords=walk+across+america&qid=1655791199&s=books&sprefix=walk+acro%2Cstripbooks%2C320&sr=1-1</dd>
+  <dd>https://www.amazon.com/Walk-Across-America-Peter-Jenkins/dp/006095955X</dd>
 </dl>
 
 ### The Martian
@@ -263,7 +263,7 @@
   <dl>Awards</dl>
   <dd>None</dd>
   <dt>Amazon link</dt>
-  <dd>https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1655791555&sr=1-1</dd>
+  <dd>https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024</dd>
 </dl>
 
 ### The Lion, The Witch, and the Wardrobe
@@ -280,5 +280,5 @@
   <dt>Awards</dt>
   <dd>none</dd>
   <dt>Amazon link</dt>
-  <dd>https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0064471047/ref=sr_1_1?crid=3R733WHWVO5I2&keywords=the+lion+the+witch+and+the+wardrobe&qid=1656044010&s=books&sprefix=The+lion+the+witch%2Cstripbooks%2C306&sr=1-1
+  <dd>https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0064471047</dd>
 </dl>
