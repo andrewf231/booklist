@@ -250,3 +250,19 @@
   <dd>https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1655791555&sr=1-1</dd>
 </dl>
 
+### The Lion, The Witch, and the Wardrobe
+
+<dl> 
+  <dt> Author</dt>
+  <dd> C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1959</dd>
+  <dt>Ages</dt>
+  <dd>6+</dd>
+  <dt>Awards</dt>
+  <dd>none</dd>
+  <dt>Amazon link</dt>
+  <dd>https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0064471047/ref=sr_1_1?crid=3R733WHWVO5I2&keywords=the+lion+the+witch+and+the+wardrobe&qid=1656044010&s=books&sprefix=The+lion+the+witch%2Cstripbooks%2C306&sr=1-1
+</dl>
