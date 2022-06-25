@@ -362,3 +362,19 @@
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/Prince-Caspian/s?k=Prince+Caspian</dd>
 </dl>
+
+### The Voyage of the Dawn Treader
+<dl>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1980</dd>
+  <dt>Ages</dt>
+  <dd>7+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Voyage-Dawn-Treader-Chronicles-Narnia/dp/0064405028</dd>
+</dl>
