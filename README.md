@@ -389,6 +389,24 @@
   <dd>1953</dd>
   <dt>Ages</dt>
   <dd>7+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/Silver-Chair-C-S-Lewis/dp/0064471098</dd>
+</dl>
+
+### The Last Battle
+<dl>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1956</dd>
+  <dt>Ages</dt>
+  <dd>7+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Last-Battle-Chronicles-Narnia-Book/dp/0064409414</dd>
 </dl>
