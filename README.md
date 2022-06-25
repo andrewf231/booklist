@@ -347,3 +347,18 @@
   <dd>https://www.amazon.com/Horse-His-Boy-C-Lewis/dp/0064471063</dd>
 </dl>
 
+### Prince Caspian
+<dl>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1979</dd>
+  <dt>Ages</dt>
+  <dd>6+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Prince-Caspian/s?k=Prince+Caspian</dd>
+</dl>
