@@ -338,7 +338,7 @@
   <dt>Illustrator</dt>
   <dd>Pauline Baynes</dd>
   <dt>Year</dt>
-  <dd>1965</dd>
+  <dd>1954</dd>
   <dt>Ages</dt>
   <dd>6+</dd>
   <dt>Awards</dt>
@@ -354,7 +354,7 @@
   <dt>Illustrator</dt>
   <dd>Pauline Baynes</dd>
   <dt>Year</dt>
-  <dd>1979</dd>
+  <dd>1951</dd>
   <dt>Ages</dt>
   <dd>6+</dd>
   <dt>Awards</dt>
@@ -370,11 +370,25 @@
   <dt>Illustrator</dt>
   <dd>Pauline Baynes</dd>
   <dt>Year</dt>
-  <dd>1980</dd>
+  <dd>1952</dd>
   <dt>Ages</dt>
   <dd>7+</dd>
   <dt>Awards</dt>
   <dd>None</dd>
   <dt>Amazon Link</dt>
   <dd>https://www.amazon.com/Voyage-Dawn-Treader-Chronicles-Narnia/dp/0064405028</dd>
+</dl>
+
+### The Silver Chair
+<dl>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1953</dd>
+  <dt>Ages</dt>
+  <dd>7+</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Silver-Chair-C-S-Lewis/dp/0064471098</dd>
 </dl>
