@@ -202,6 +202,22 @@
   <dd>https://www.amazon.com/Things-Wise-Wonderful-James-Herriot/dp/0312966555</dd>
   </dl>
   
+### The Lord God Made Them All
+<dl>
+  <dt>Author</dt>
+  <dd>James A. Herriot</dd>
+  <dt>Illustrator</dt>
+  <dd>None</dd>
+  <dt>Year</dt>
+  <dd>1981</dd>
+  <dt>Ages</dt>
+  <dd>11+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon link</dt>
+  <dd>https://www.amazon.com/Lord-God-Made-Them-All/dp/0312498349</dd>
+  </dl>
+
 ### The Fellowship of the Ring
 <dl>
   <dt>Author</dt>
@@ -282,6 +298,22 @@
   <dd>https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024</dd>
 </dl>
 
+### The Magicians Nephew
+<dl>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1955</dd>
+  <dt>Age</dt>
+  <dd>6+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Magicians-Nephew-C-S-Lewis/dp/0064471101</dd>
+</dl>
+
 ### The Lion, The Witch, and the Wardrobe
 
 <dl> 
@@ -298,3 +330,20 @@
   <dt>Amazon link</dt>
   <dd>https://www.amazon.com/Lion-Witch-Wardrobe-C-Lewis/dp/0064471047</dd>
 </dl>
+
+### The Horse and His Boy
+<dl>
+  <dt>Author</dt>
+  <dd>C.S. Lewis</dd>
+  <dt>Illustrator</dt>
+  <dd>Pauline Baynes</dd>
+  <dt>Year</dt>
+  <dd>1965</dd>
+  <dt>Ages</dt>
+  <dd>6+</dd>
+  <dt>Awards</dt>
+  <dd>None</dd>
+  <dt>Amazon Link</dt>
+  <dd>https://www.amazon.com/Horse-His-Boy-C-Lewis/dp/0064471063</dd>
+</dl>
+
